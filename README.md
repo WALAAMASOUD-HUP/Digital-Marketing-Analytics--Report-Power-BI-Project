@@ -7,10 +7,6 @@ The project was developed as a team collaboration by me and my teammate, with sh
 
 ![Image](https://github.com/user-attachments/assets/61d0bb89-e688-439d-b518-85e79256fb34)
 
-
-
-
-
 ________________________________________
 Project Objectives
 •	Analyze digital marketing campaign performance
@@ -56,8 +52,6 @@ Tools & Technologies
 •	Dashboard Design
 •	Digital Marketing Analytics
 
-
-
 ________________________________________
 Team Members
 •	Enas Abdelraheem
@@ -78,4 +72,8 @@ This project is intended for:
 •	Learning purposes
 •	Portfolio showcase
 •	Demonstrating data analytics and digital marketing skills
+
+Online Interactive Report : 
+
+https://app.powerbi.com/view?r=eyJrIjoiMWVjNDdhODktYWVlMC00YjVhLTk3NjQtMmZhNWZkZjhlYWE0IiwidCI6ImUxOWY2ZjQyLTJhODQtNDhlZS04N2Y2LTUzNjQ5YzdhMzNhYSIsImMiOjl9
 
