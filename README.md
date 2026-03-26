@@ -64,8 +64,7 @@ ________________________________________
 Project Screenshots
 Screenshots of the dashboard are included in the repository to showcase visuals and insights.
 
-https://github.com/user-attachments/assets/17c2e44f-98c1-4322-8ab9-fe01068b8c44
-
+https://github.com/user-attachments/assets/cf7ebe7f-3ed2-4853-97b0-2a737094315f
 ________________________________________
 Notes
 This project is intended for:
